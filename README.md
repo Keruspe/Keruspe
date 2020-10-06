@@ -25,6 +25,7 @@
 
   - SRE at [Clever Cloud]
   - Core developer for [exherbo]
+  - My [blog]
   - My [paludis config] for exherbo
 
 You can [sponsor] my work
@@ -42,5 +43,6 @@ You can [sponsor] my work
 [g2048]: https://github.com/Keruspe/g2048
 [Clever Cloud]: https://www.clever-cloud.com
 [exherbo]: https://exherbo.org
+[blog]: https://www.imagination-land.org/
 [paludis config]: https://github.com/Keruspe/paludis-config
 [sponsor]: https://github.com/sponsors/Keruspe
