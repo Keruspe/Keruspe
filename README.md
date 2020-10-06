@@ -5,6 +5,7 @@
 
 #### Rust utilities
 
+  - [async-global-executor] - A shared global executor implementation on top of async-executor, used by async-std
   - [pinky-swear] - Promises library with futures compatibility
   - [rustls-connector] - A TLS Connector similar to the ones from OpenSSL and native-tls, for RusTLS
   - [tcp-stream] - mio's TCPStream with built-in support for various TLS providers
@@ -32,6 +33,7 @@ You can [sponsor] my work
 
 [GPaste]: https://github.com/Keruspe/GPaste
 [Germinal]: https://github.com/Keruspe/Germinal
+[async-global-executor]: https://github.com/async-rs/async-global-executor
 [pinky-swear]: https://github.com/Keruspe/pinky-swear
 [rustls-connector]: https://github.com/Keruspe/rustls-connector
 [tcp-stream]: https://github.com/Keruspe/tcp-stream
