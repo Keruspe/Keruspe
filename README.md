@@ -24,7 +24,6 @@
 
 #### About me
 
-  - Co-founder at [Clever Cloud]
   - Core developer for [exherbo]
   - My [blog]
   - My [paludis config] for exherbo
